@@ -1,4 +1,4 @@
-# My SPA with Laravel
+# My SPA with Laravel 練習
 
 ## 項目簡介
 
@@ -9,8 +9,9 @@
 ### 前置條件
 
 - PHP >= 7.4
-- Composer
-- Node.js & npm
+- Composer [Composer 安裝](https://getcomposer.org/download/)
+- Node.js & npm [NodeJS 安裝](https://nodejs.org/zh-cn)
+
 
 ## 過程記錄
 
